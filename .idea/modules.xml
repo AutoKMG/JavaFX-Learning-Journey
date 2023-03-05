@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Events/Events.iml" filepath="$PROJECT_DIR$/Events/Events.iml" />
       <module fileurl="file://$PROJECT_DIR$/FirstApp/FirstApp.iml" filepath="$PROJECT_DIR$/FirstApp/FirstApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaFx.iml" filepath="$PROJECT_DIR$/.idea/JavaFx.iml" />
       <module fileurl="file://$PROJECT_DIR$/Props/Props.iml" filepath="$PROJECT_DIR$/Props/Props.iml" />

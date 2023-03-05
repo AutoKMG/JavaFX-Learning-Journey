@@ -6,13 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Props" />
+        <module name="ReadOnlyProps" />
         <module name="FirstApp" />
+        <module name="Props" />
+        <module name="Events" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Events" target="19" />
       <module name="FirstApp" target="19" />
       <module name="Props" target="19" />
+      <module name="ReadOnlyProps" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>
