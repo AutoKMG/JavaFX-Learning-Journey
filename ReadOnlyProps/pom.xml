@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.javafxlearning.readonlyprops/com.javafxlearning.readonlyprops.HelloApplication
+                                com.javafxlearning.readonlyprops/com.javafxlearning.readonlyprops.Main
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
