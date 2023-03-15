@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BorderPane/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BorderPane/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlowPane/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlowPane/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GridPane/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GridPane/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Group/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Group/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HBox/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HBox/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StackPane/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StackPane/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TilePane/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TilePane/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VBox/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VBox/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

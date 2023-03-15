@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Group" />
+        <module name="HBox" />
+        <module name="BorderPane" />
+        <module name="GridPane" />
+        <module name="TilePane" />
+        <module name="FlowPane" />
+        <module name="VBox" />
+        <module name="StackPane" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BorderPane" target="19" />
+      <module name="FlowPane" target="19" />
+      <module name="GridPane" target="19" />
+      <module name="Group" target="19" />
+      <module name="HBox" target="19" />
+      <module name="StackPane" target="19" />
+      <module name="TilePane" target="19" />
+      <module name="VBox" target="19" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

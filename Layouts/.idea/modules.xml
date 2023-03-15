@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BorderPane/BorderPane.iml" filepath="$PROJECT_DIR$/BorderPane/BorderPane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlowPane/FlowPane.iml" filepath="$PROJECT_DIR$/FlowPane/FlowPane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GridPane/GridPane.iml" filepath="$PROJECT_DIR$/GridPane/GridPane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Group/Group.iml" filepath="$PROJECT_DIR$/Group/Group.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HBox/HBox.iml" filepath="$PROJECT_DIR$/HBox/HBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Layouts.iml" filepath="$PROJECT_DIR$/.idea/Layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackPane/StackPane.iml" filepath="$PROJECT_DIR$/StackPane/StackPane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TilePane/TilePane.iml" filepath="$PROJECT_DIR$/TilePane/TilePane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VBox/VBox.iml" filepath="$PROJECT_DIR$/VBox/VBox.iml" />
+    </modules>
+  </component>
+</project>
