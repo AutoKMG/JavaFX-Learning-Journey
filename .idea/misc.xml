@@ -7,6 +7,13 @@
         <option value="$PROJECT_DIR$/FirstApp/pom.xml" />
         <option value="$PROJECT_DIR$/ReadOnlyProps/pom.xml" />
         <option value="$PROJECT_DIR$/Events/pom.xml" />
+        <option value="$PROJECT_DIR$/Group/pom.xml" />
+        <option value="$PROJECT_DIR$/HBox/pom.xml" />
+        <option value="$PROJECT_DIR$/VBox/pom.xml" />
+        <option value="$PROJECT_DIR$/FlowPane/pom.xml" />
+        <option value="$PROJECT_DIR$/BorderPane/pom.xml" />
+        <option value="$PROJECT_DIR$/StackPane/pom.xml" />
+        <option value="$PROJECT_DIR$/TilePane/pom.xml" />
       </list>
     </option>
   </component>

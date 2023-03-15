@@ -7,16 +7,31 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ReadOnlyProps" />
+        <module name="Group" />
         <module name="FirstApp" />
-        <module name="Props" />
+        <module name="HBox" />
+        <module name="BorderPane" />
         <module name="Events" />
+        <module name="TilePane" />
+        <module name="FlowPane" />
+        <module name="Props" />
+        <module name="VBox" />
+        <module name="StackPane" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="BorderPane" target="19" />
       <module name="Events" target="19" />
       <module name="FirstApp" target="19" />
+      <module name="FlowPane" target="19" />
+      <module name="Group" target="19" />
+      <module name="HBox" target="19" />
       <module name="Props" target="19" />
       <module name="ReadOnlyProps" target="19" />
+      <module name="StackPane" target="19" />
+      <module name="TilePane" target="19" />
+      <module name="vbox" target="19" />
+      <module name="VBox" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>
