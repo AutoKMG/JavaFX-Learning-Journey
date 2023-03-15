@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnchorPane/AnchorPane.iml" filepath="$PROJECT_DIR$/AnchorPane/AnchorPane.iml" />
       <module fileurl="file://$PROJECT_DIR$/BorderPane/BorderPane.iml" filepath="$PROJECT_DIR$/BorderPane/BorderPane.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlowPane/FlowPane.iml" filepath="$PROJECT_DIR$/FlowPane/FlowPane.iml" />
       <module fileurl="file://$PROJECT_DIR$/GridPane/GridPane.iml" filepath="$PROJECT_DIR$/GridPane/GridPane.iml" />

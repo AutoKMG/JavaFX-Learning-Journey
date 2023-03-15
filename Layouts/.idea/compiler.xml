@@ -13,10 +13,12 @@
         <module name="TilePane" />
         <module name="FlowPane" />
         <module name="VBox" />
+        <module name="AnchorPane" />
         <module name="StackPane" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AnchorPane" target="19" />
       <module name="BorderPane" target="19" />
       <module name="FlowPane" target="19" />
       <module name="GridPane" target="19" />

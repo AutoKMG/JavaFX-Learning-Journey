@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/StackPane/pom.xml" />
         <option value="$PROJECT_DIR$/BorderPane/pom.xml" />
         <option value="$PROJECT_DIR$/GridPane/pom.xml" />
+        <option value="$PROJECT_DIR$/AnchorPane/pom.xml" />
       </list>
     </option>
   </component>
